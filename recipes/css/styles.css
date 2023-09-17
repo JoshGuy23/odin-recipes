@@ -1,0 +1,35 @@
+﻿h1 
+{
+    font-family: Impact, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: darkgoldenrod;
+}
+
+h2
+{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: red;
+}
+
+p, li
+{
+    font-family: sans-serif;
+}
+
+*
+{
+    text-align: center;
+}
+
+ul, ol
+{
+    list-style-position: inside;
+    display: inline-block;
+}
+
+li
+{
+    text-align: left;
+}
