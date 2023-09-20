@@ -1,4 +1,5 @@
-﻿h1 
+﻿/*******Style Elements for All Pages*******/
+h1 
 {
     font-family: Impact, Helvetica, sans-serif;
     font-weight: bold;
@@ -32,4 +33,25 @@ ul, ol
 li
 {
     text-align: left;
+}
+/*********************************************/
+/**********Style Elements for Index***************/
+.body-index
+{
+    background-color: darkcyan;
+    border: 5px solid darkgoldenrod;
+    padding: 0;
+    margin: 0 auto;
+    min-width: 350px;
+    max-width: 375px;
+}
+
+.index-link:link
+{
+    color: white;
+}
+
+.index-link:hover
+{
+    color: darkgoldenrod;
 }
